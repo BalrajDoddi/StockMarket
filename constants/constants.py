@@ -1,0 +1,5 @@
+INVALID_TOKEN = 'It seems you have entered wrong token or token expired'
+NO_TOKEN = 'Please enter a enctoken to start process in B1 cell'
+LOGIN_SUCCESS = 'You are successfully logged into Zerodha'
+INSTRUMENTS_UPDATED = 'instruments updated in INSTRUMENTS sheet sucessfully'
+INCORRECT_SYMB = 'Given exchange and symbol is incorrect'
