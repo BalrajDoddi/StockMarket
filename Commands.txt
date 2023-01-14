@@ -1,0 +1,29 @@
+// To Activate
+.\env\Scripts\activate
+
+// if any Error in activation run below comman in admin mode
+set-executionpolicy remotesigned
+
+// To run requirement.txt
+pip install -r requirement.txt
+
+// deactivate virtual environment
+deactivate
+
+
+
+
+//No Use
+pip install virtualenv
+virtualenv env_name
+
+// To create requirement.txt file
+pip freeze > requirement.txt
+
+// To run requirement.txt
+pip install -r requirement.txt
+
+// deactivate virtual environment
+deactivate
+
+
